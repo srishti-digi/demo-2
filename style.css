@@ -30,4 +30,48 @@ body{
     padding:20px;
     margin:20px;
 
+
+}
+.categories{
+    border-radius: 15px solid black;
+
+   
+
+}
+.categories h2{
+    text-align:center;
+}
+.categories ul{
+    list-style-type:none;
+    padding:0;
+
+}
+a{
+    text-decoration: none;
+    color:#333333;
+}
+a:hover{
+    color:red;
+}
+
+a:active{
+    color:green;
+}
+
+.my-form{
+ padding:20px;   
+}
+ .form-group{
+    padding-bottom:15px;
+}
+.my-form label{
+    display: block;
+}
+
+.my-form input[type="text"] {
+ padding:15px;
+width:100%;
+}
+.my-form input[type="submit"]{
+background-color:black;
 }
