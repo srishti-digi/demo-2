@@ -8,6 +8,13 @@ body{
     margin:0;
 
 }
+.container{
+    width:80%;
+    margin:0 auto;
+}
 .box-1{
-    background-color:#333333
+    color:#ffffff;
+    background-color:#333333;
+    border:5px solid blue;
+    padding: 10px;
 }
