@@ -23,4 +23,11 @@ body{
     font-style: italic;
     text-transform:uppercase;
     text-decoration: underline;
+    
+}
+.box-2{
+    border:5px dotted red;
+    padding:20px;
+    margin:20px;
+
 }
