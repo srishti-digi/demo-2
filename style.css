@@ -84,3 +84,12 @@ border:none;
     padding:15px 10px;
     border:none;
 }
+.block{
+    float:left;
+    width:33.3%;
+    padding:10px;
+    box-sizing: border-box;
+}
+.clr{
+    clear:both;
+}
